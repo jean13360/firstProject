@@ -20,7 +20,7 @@ public class BobFeignClientTest {
 	@Autowired
 	private BobFeignClient obj;
 	 
-	private static final String URI_BOOK = "http://localhost:2012/jamvee/pe/user";
+	private static final String URI_BOOK = [YOU URL];
 	 @Test
 	 public void testFindBookById() {
 		 
